@@ -1,5 +1,5 @@
 # P5.Js-Python
-In this i implemented some mini projects i found in p5.js Javascript Library using Pygame Module in Python
+Here i implemented some mini projects i found in p5.js Javascript Library using Pygame Module in Python
 
 Mini Projects 
 1. Starfield
